@@ -16,7 +16,7 @@ This is my simple introduction to spark using scala language
  ```
  
 - Now we have to install ***spark*** and add in our environment, download spark here [https://spark.apache.org/downloads.html]
-- you have to add spark home in local environment and test scala install
+- you have to add spark home in local environment and test spark install
 
 ```
  > spark-shell
